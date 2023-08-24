@@ -1,11 +1,11 @@
 
 # Rock Paper Scissor
 
-The Rock Paper Scissor is a console-based game coded in Java programming language. The project contains basic functionality that allows users to choose rock, paper or scissor. 
+The Rock Paper Scissor is a console-based game coded in Java programming language. The project contains basic functionality that allows users to choose rock, paper or scissors. 
 
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2023-08-24 221846](https://github.com/ambrish-kd/Rock-Paper-Scissor/assets/90711457/a3cf6560-def3-4c73-b1a4-d38b08ba36d2)
 
 ## Basic Information
 
